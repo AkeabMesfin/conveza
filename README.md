@@ -4,9 +4,9 @@
 
 ## Features
 - 🌟 **Mentorship Opportunities**: Connect with experienced entrepreneurs to guide your journey.
-- 💬 **Private Messaging**: Engage in meaningful one-on-one conversations.
+- 💬 **Private Messaging**: Engage in meaningful one-on-one conversations(**Not instant, need some work**).
 - 🗣️ **Community Discussions**: Share knowledge, ask questions, and learn from peers.
-- 🎯 **Genre-Specific Groups**: Join niche communities that align with your interests or business focus.
+- 🎯 **Genre-Specific Groups**: Join niche communities that align with your interests or business focus(**Not instant, need some work**).
 - 📈 **Networking and Growth**: Build valuable relationships that can transform your entrepreneurial journey.
 
 ## Vision
